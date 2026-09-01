@@ -20,9 +20,13 @@ This codebase includes training, evaluation, demo, as well as pretrained weights
 
 ![demo1](assets/glamia_demo_1.mp4)
 
+https://github.com/user-attachments/assets/d64d8568-01e1-4091-8588-37c96e33969d
+
 **Another Demo**:
 
 ![demo2](assets/glamia_demo_2.mp4)
+
+https://github.com/user-attachments/assets/315a746a-9941-411b-80d6-78e25347afed
 
 ## Repository layout
 ```
