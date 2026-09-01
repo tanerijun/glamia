@@ -1,0 +1,10 @@
+GLAMIA: Accessible Real-Time Gaze Estimation Framework
+Copyright 2026 Vincent Taneri
+
+This product includes third-party materials:
+
+- training/preprocessing/ is derived from GazeHub by Phi-ai Lab
+  (Beihang University), licensed under CC BY-NC-SA 4.0
+  (see training/preprocessing/LICENSE).
+- inference/mediapipe_models/blaze_face_short_range.tflite is a
+  Google MediaPipe model, licensed under Apache-2.0.

@@ -1,0 +1,21 @@
+# Dataset
+dataset_name: gaze360
+data_root: data/preprocessed/Gaze360
+split: train
+
+# Backbone
+backbone: mobileone_s1
+pretrained: true
+
+final_model: false
+
+# Params
+image_size: 224
+batch_size: 64
+lr: 0.00001
+epochs: 25
+alpha: 1.0
+
+# Gaze 360 binning logic
+num_bins: 90
+angle_range: 360 # Corresponds to [-180, 180]

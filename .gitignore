@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Datasets and generated data (user-provided; never commit)
+/datasets/
+/experiments/
+training/data/
+training/output/
+output/
+
+# OS artifacts
+.DS_Store
+._*
